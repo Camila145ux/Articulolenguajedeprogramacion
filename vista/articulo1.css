@@ -1,0 +1,32 @@
+.imagen1 {
+    width: 40%;
+    height: 40;
+    align-items: center;
+    font-size: xx-large;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.caracteristicas {
+    align-items: center;
+    font-size: medium;
+}
+
+.titulo1 {
+
+    align-items: center;
+    font-size: x-large;
+    margin-top: 2rem;
+}
+
+.texto1 {
+
+align-items: 2rem;
+}
+
+.articulo1 {
+
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
