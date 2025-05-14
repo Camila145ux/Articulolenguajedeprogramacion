@@ -1,0 +1,24 @@
+.articulo4 {
+    background-color: beige;
+    align-items: center;
+}
+
+.titulo1 {
+    text-align: center;
+    margin: 2rem;
+}
+
+.titulo2 {
+    text-align: center;
+    margin: 2rem;
+}
+
+.imagen {
+    width: 50%;
+    height: 30%;
+    align-items: center;
+    margin-top: 3rem;
+    display: block;
+    margin: 0 auto;
+    padding: 2rem;
+}
